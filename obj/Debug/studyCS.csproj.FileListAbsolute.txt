@@ -1,0 +1,7 @@
+C:\Users\dltmd\source\repos\studyCS\studyCS\bin\Debug\studyCS.exe.config
+C:\Users\dltmd\source\repos\studyCS\studyCS\bin\Debug\studyCS.exe
+C:\Users\dltmd\source\repos\studyCS\studyCS\bin\Debug\studyCS.pdb
+C:\Users\dltmd\source\repos\studyCS\studyCS\obj\Debug\studyCS.csprojAssemblyReference.cache
+C:\Users\dltmd\source\repos\studyCS\studyCS\obj\Debug\studyCS.csproj.CoreCompileInputs.cache
+C:\Users\dltmd\source\repos\studyCS\studyCS\obj\Debug\studyCS.exe
+C:\Users\dltmd\source\repos\studyCS\studyCS\obj\Debug\studyCS.pdb
