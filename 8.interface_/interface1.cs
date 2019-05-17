@@ -7,10 +7,12 @@ using System.IO;
 
 namespace studyCS._8.interface_
 {
+    
     interface ILogger
     {
         void WriteLog(string message);
     }
+
 
     class ConsoleLogger : ILogger
     {
@@ -22,6 +24,9 @@ namespace studyCS._8.interface_
 
     class FileLogger : ILogger
     {
+        /// <summary>
+        /// 테스트를위한 주석
+        /// </summary>
         private StreamWriter writer;
 
         public FileLogger(string path)
